@@ -1,7 +1,8 @@
 # Overview of the analysis
 
 The purpose for this analysis is to examine the CitiBike data from August 2019 to assist Des Moines with her business proposal.To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
-Picture1.png
+
+![bikesharing](Picture1.png.svg.png)
 
 
 In the image "Checkout Times for Users" it shows the duration of the bike trips in minutes. The majority of trips are under 20 minutes, and it most significant volume is of trips is 5 minutes.
