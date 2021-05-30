@@ -1,6 +1,6 @@
 # Overview of the analysis
 
-= The purpose for this analysis is to examine the CitiBike data from August 2019 to assist Des Moines with her business proposal.To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
+- The purpose for this analysis is to examine the CitiBike data from August 2019 to assist Des Moines with her business proposal.To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
 
 ![Picture1](Picture1.png)
 
