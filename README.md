@@ -5,7 +5,7 @@
 ![Picture1](Picture1.png)
 
 
-= In the image "Checkout Times for Users" it shows the duration of the bike trips in minutes. The majority of trips are under 20 minutes, and it most significant volume is of trips is 5 minutes.
+- In the image "Checkout Times for Users" it shows the duration of the bike trips in minutes. The majority of trips are under 20 minutes, and it most significant volume is of trips is 5 minutes.
 
 
 ![Picture2](Picture2.png)
@@ -34,6 +34,6 @@
 ## Summary
 
 
-= Since the outing term for bicycle use is under 20 minutes that is be protected to accept to put bicycle stations around 20 minutes separated from one another. Another idea is to attempt to track down a motivating force to acquire more female bikers since female biker use is low contrasted with guys. Likewise, it is protected to investigate security safety measures for bikers around there. 
+- Since the outing term for bicycle use is under 20 minutes that is be protected to accept to put bicycle stations around 20 minutes separated from one another. Another idea is to attempt to track down a motivating force to acquire more female bikers since female biker use is low contrasted with guys. Likewise, it is protected to investigate security safety measures for bikers around there. 
 
 For future ideas, two extra perceptions is incorporate the age gathering and sort out which are the top bicycle stations in NYC.
